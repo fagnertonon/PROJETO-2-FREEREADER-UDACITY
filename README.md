@@ -1,4 +1,4 @@
-# CLONE FLIPERAMA NANODEGRE WEB FRONT-END AVANÇADO
+# FREEREADER NANODEGRE WEB FRONT-END AVANÇADO
 
     Projeto desenvolvido no curso  com intuito de entender os conceitos de teste em javascript utilizando jasmine.
 
